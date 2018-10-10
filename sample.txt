@@ -1,1 +1,1 @@
-sample tex
+sample text
